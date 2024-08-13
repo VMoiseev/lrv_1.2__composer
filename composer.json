@@ -1,0 +1,14 @@
+{
+    "name": "vitaliy/composer",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "require-dev": {
+        "psr/log": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "VMoiseev"
+        }
+    ],
+    "require": {}
+}
